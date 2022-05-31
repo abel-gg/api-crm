@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Abel ACTUALIZADO",
+      "empresa": "Codigo con Abel",
+      "email": "correo@correo.com",
+      "telefono": "666555444",
+      "notas": "Ejemplo",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telefono": "666555444",
+      "notas": "Cotizando",
+      "id": 3
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "correo@correo.com",
+      "telefono": "666555444",
+      "notas": "Obras",
+      "id": 4
+    }
+  ]
+}
